@@ -1,0 +1,201 @@
+doc,Text
+docx,Text
+log,Text
+msg,Text
+odt,Text
+pages,Text
+rtf,Text
+tex,Text
+txt,Text
+wpd,Text
+wps,Text
+data,Data
+csv,Data
+dat,Data
+ged,Data
+key,Data
+keychain,Data
+pps,Data
+ppt,Data
+pptx,Data
+sdf,Data
+tar,Data
+tax2016,Data
+vcf,Data
+xml,Data
+audio,Audio
+aif,Audio
+iff,Audio
+m3u,Audio
+m4a,Audio
+mid,Audio
+mp3,Audio
+mpa,Audio
+wav,Audio
+wma,Audio
+video,Video
+3g2,Video
+3gp,Video
+asf,Video
+avi,Video
+flv,Video
+m4v,Video
+mov,Video
+mp4,Video
+mpg,Video
+rm,Video
+srt,Video
+swf,Video
+vob,Video
+wmv,Video
+3d image,
+3dm,3D Image
+3ds,3D Image
+max,3D Image
+obj,3D Image
+raster image,
+bmp,Raster Image
+dds,Raster Image
+gif,Raster Image
+jpg,Raster Image
+png,Raster Image
+psd,Raster Image
+pspimage,Raster Image
+tga,Raster Image
+thm,Raster Image
+tif,Raster Image
+tiff,Raster Image
+yuv,Raster Image
+vector image,Vector Image
+ai,Vector Image
+eps,Vector Image
+ps,Vector Image
+svg,Vector Image
+page layout,Page Layout
+indd,Page Layout
+pct,Page Layout
+pdf,Page Layout
+spreadsheet,Spreadsheet
+xlr,Spreadsheet
+xls,Spreadsheet
+xlsx,Spreadsheet
+database,Database
+accdb,Database
+db,Database
+dbf,Database
+mdb,Database
+pdb,Database
+sql,Database
+executable,Executable
+apk,Executable
+app,Executable
+bat,Executable
+cgi,Executable
+com,Executable
+exe,Executable
+gadget,Executable
+jar,Executable
+wsf,Executable
+game,Game
+dem,Game
+gam,Game
+nes,Game
+rom,Game
+sav,Game
+cad,CAD
+dwg,CAD
+dxf,CAD
+gis,GIS
+gpx,GIS
+kml,GIS
+kmz,GIS
+web,Web
+asp,Web
+aspx,Web
+cer,Web
+cfm,Web
+csr,Web
+css,Web
+htm,Web
+html,Web
+js,Web
+jsp,Web
+php,Web
+rss,Web
+xhtml,Web
+plugin,Plugin
+crx,Plugin
+plugin,PLUGIN
+font,Font
+fnt,Font
+fon,Font
+otf,Font
+ttf,Font
+system,System
+cab,System
+cpl,System
+cur,System
+deskthemepack,System
+dll,System
+dmp,System
+drv,System
+icns,System
+ico,System
+lnk,System
+sys,System
+settings,Settings
+cfg,Settings
+ini,Settings
+prf,Settings
+encoded,Encoded
+hqx,Encoded
+mim,Encoded
+uue,Encoded
+compressed,Compressed
+7z,Compressed
+cbr,Compressed
+deb,Compressed
+gz,Compressed
+pkg,Compressed
+rar,Compressed
+rpm,Compressed
+sitx,Compressed
+targz,Compressed
+zip,Compressed
+zipx,Compressed
+disk image,Disk Image
+bin,Disk Image
+cue,Disk Image
+dmg,Disk Image
+iso,Disk Image
+mdf,Disk Image
+toast,Disk Image
+vcd,Disk Image
+developer,Developer
+c,Developer
+class,Developer
+cpp,Developer
+cs,Developer
+dtd,Developer
+fla,Developer
+h,Developer
+java,Developer
+lua,Developer
+m,Developer
+pl,Developer
+py,Developer
+sh,Developer
+sln,Developer
+swift,Developer
+vb,Developer
+vcxproj,Developer
+xcodeproj,Developer
+backup,Backup
+bak,Backup
+tmp,Backup
+misc,Misc
+crdownload,Misc
+ics,Misc
+msi,Misc
+part,Misc
+torrent,Misc
